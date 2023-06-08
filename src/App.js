@@ -4,7 +4,7 @@ import Restaurant from './component/basics/Restaurant';
 function App() {
   return (
     <div >
-      <Restaurant/>
+      <Restaurant />
     </div>
   );
 }
